@@ -43,13 +43,24 @@ We also add some Reactjs, material ui and Boostrap to make the project looks mor
 
 ## Challenges we ran into
 In Python 🐍
-
+- We have the most trouble debugging with some of the most noticable errors are when running the counter loop
+the code doesn't run as expected. 
+- The data source is another source of problems since it takes a while for the program to learn between positive
+and negative comment. It used to product the result with less than 70% accuracy
+In react 🖥️
+- The UI is not responsive as expected this problem is overlook until there is not enough time to fix it
+- Wasn't able to exchange data between Python and React so the web page main use was changed from a demonstration
+web page to a display web page
+- It takes too long to create the overlay and finding an image for the background
+- The form is also incomplete thus not included in the final products
 
 
 ## Accomplishments that we're proud of
 We're proud to say that the AI aka our intelligent AI model with 98% accuracy in determining customer feedbacks
-Improve data source from last Hackathon
-Create a pie chart that dissect and analyze the customer feed back and produce a pie chart to us
+Improve data source from last Hackathon. We also go above and beyond the original plan with
+creating a pie chart that dissect and analyze the customer feed back and produce a pie chart to user.
+The web page is also very appealing and modern.
+
 
 ## What we learned
 
